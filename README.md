@@ -1,2 +1,2 @@
-# bi_ML
+# bid_ML
 ML Practice projects
